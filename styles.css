@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+footer {
+  background-color: #3430;
+  color: blue;
+}
+
+footer a {
+  color: #f8f9;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
